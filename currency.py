@@ -1,6 +1,6 @@
 # jeden jorn má 33 vikýřů
 # jeden jorn je 15 norských korun
-# jeden jorn je 1.5 centů
+# jeden jorn je 1.5 euro
 # jeden jorn je 38.5 korun
 
 ################# ZÁKLADNÍ KÓD BEZ ZJEDNODUŠENÍ:
